@@ -2,6 +2,16 @@
 
 ## 1. Identificação da equipe
 
+Antonia Taiani da Silva 
+Evandro Evair Condori Colque 
+Fabricio de Oliveira 
+Gustavo Augusto Barbara 
+Gustavo Cesar do Nascimento Romão
+João Vitor Ferreira Ramos 
+Kaua Henrique Nascimento Cavalcante 
+Mariana Cerqueira Antonini 
+Thiago Roberto de Oliveira
+
 ## 2. Caracterização da empresa
 •	Escola de música.
 •	Murbach Music School.
@@ -24,7 +34,36 @@
 
 ## 5. Processos de negócio
 
-...
+1- Captação de alunos
+Divulgação → contato → apresentação dos cursos → negociação
+Novo interessado
+2- Matrícula
+Cadastro do aluno → escolha do curso → definição de horário → assinatura do contrato
+Aluno matriculado
+3- Gestão das aulas
+Preparar aula → realizar aula → registrar conteúdo → avaliar participação
+Aula realizada
+4- Controle de frequência
+Registrar presença → identificar faltas → comunicar responsáveis/alunos
+Frequência atualizada
+5- Avaliação do aluno
+Aplicar atividades → avaliar desempenho → registrar resultados → fornecer feedback
+Desempenho acompanhado
+6- Gestão financeira
+Gerar mensalidade → receber pagamento → registrar → controlar inadimplência
+Situação financeira atualizada
+7-Gestão de professores
+Cadastro → definição de horários → distribuição → acompanhamento
+Professores organizados
+8- Renovação de matrícula
+Verificar interesse → atualizar dados → confirmar curso/horário → renovar contrato
+Matrícula renovada
+9- Cancelamento
+Solicitação → verificar situação financeira/contratual → cancelar matrícula
+Aluno desligado
+10- Atendimento
+Receber dúvidas → registrar solicitação → solucionar → dar retorno
+Solicitação atendida
 
 ## 6. Requisitos funcionais
    6.1 Requisitos funcionas do setor Financeiro:
